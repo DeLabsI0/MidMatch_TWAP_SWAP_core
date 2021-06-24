@@ -53,4 +53,5 @@ I was also thinking about some sort of “slots” with defined pool sizes to re
 ### Unsolved production definition issues:
 
 How to do settlement (how it should work, who pays gas, how to do it, when, who is triggering it)
+
 How to allow users to withdraw funds before the TWAP measuring period.
